@@ -1,3 +1,3 @@
 # FaceRecognitionAttendanceSystem
 installer file
-installer for windows - use brain to run
+installer for windows 
